@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shopping-App/static/css/main.6ccd65a8.css",
+    "main.js": "/Shopping-App/static/js/main.f1c6ee71.js",
+    "static/js/787.6962f9d7.chunk.js": "/Shopping-App/static/js/787.6962f9d7.chunk.js",
+    "static/media/hair-oil.jpg": "/Shopping-App/static/media/hair-oil.1b54e65295f1fef1b467.jpg",
+    "index.html": "/Shopping-App/index.html",
+    "main.6ccd65a8.css.map": "/Shopping-App/static/css/main.6ccd65a8.css.map",
+    "main.f1c6ee71.js.map": "/Shopping-App/static/js/main.f1c6ee71.js.map",
+    "787.6962f9d7.chunk.js.map": "/Shopping-App/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.f1c6ee71.js"
+  ]
+}
